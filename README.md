@@ -12,4 +12,4 @@ Execute `python l64encode.py -h` to view usage information.
 
 # Credits
 
-[chill1Penguin](https://github.com/) for providing the l64-decode script.
+[chill1Penguin](https://github.com/chill1Penguin) for providing the l64-decode script.
