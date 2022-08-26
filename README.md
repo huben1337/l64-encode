@@ -8,4 +8,4 @@ Python 3.3+
 
 # Usage
 
-Execute `python l64decode.py -h` to view usage information.
+Execute `python l64encode.py -h` to view usage information.
